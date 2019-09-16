@@ -1,6 +1,6 @@
 {
   "name": "Facebook Ad Block",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "將Facebook的廣告貼文擋掉",
   "manifest_version": 2,
   "content_scripts": [
